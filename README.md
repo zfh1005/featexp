@@ -1,4 +1,7 @@
 # featexp
+
+https://www.jiqizhixin.com/articles/2018-11-06-7
+
 Feature exploration for supervised learning. Helps with feature understanding, identifying noisy features, feature debugging, leakage detection and model monitoring.
 
 ### Installation
